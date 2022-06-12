@@ -1,5 +1,5 @@
 # Client-Server-CN-Assignment
-How to compile & Run
+Steps for compiling & executing the programs:
 - gcc -Wall -o server server.c 
 - ./server
 - gcc -Wall -o client client.c 
