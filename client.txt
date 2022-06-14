@@ -1,0 +1,5 @@
+I514807@C02FQ8NQMD6M CN Assignment % gcc -Wall -o client client.c
+I514807@C02FQ8NQMD6M CN Assignment % ./client 
+Socket successfully created..
+connected to the server..
+Enter a message : 2020HS70054

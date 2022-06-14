@@ -1,0 +1,8 @@
+I514807@C02FQ8NQMD6M CN Assignment % gcc -Wall -o server server.c
+I514807@C02FQ8NQMD6M CN Assignment % ./server                    
+Socket successfully created..
+Socket successfully binded..
+Server listening..
+server accepted the client...
+Message from client: 2020HS70054
+To client: 
